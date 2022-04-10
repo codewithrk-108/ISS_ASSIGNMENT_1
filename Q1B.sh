@@ -1,3 +1,3 @@
 #!/bin/bash
-uniq "quotes.txt"
+uniq -u "quotes.txt" 
 #displays unique content --quotes
