@@ -23,7 +23,7 @@ done <"$input"
 
 # E
 input="$1"
-grep -E -o '\w++' "$input" | sort >"new.txt"
+grep -E -o '\w++' "$input" |sort>"new.txt"
 count=0
 uniq -c "new.txt" > "count.txt"
 while read -r line;

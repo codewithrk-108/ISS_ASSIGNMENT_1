@@ -10,4 +10,4 @@ do
   else
   echo "$prefix once said, \""$suffix"\""
   fi
-done < "$input"
+done < "$input" > "speech.txt"
