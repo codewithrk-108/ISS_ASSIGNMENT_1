@@ -88,7 +88,7 @@ $ chmod +x Q5C.sh
 $ ./Q5C.sh 
 ```
 
-Github Repo : https://github.com/codewithrk-108/ISS_ASSIGNMENT1
+Github Repo : https://github.com/codewithrk-108/ISS_ASSIGNMENT_1
 
 
 
