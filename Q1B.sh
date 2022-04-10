@@ -1,4 +1,3 @@
 #!/bin/bash
-sort "quotes.txt" | uniq > "new.txt"
-mv "new.txt" "quotes.txt"
+uniq "quotes.txt"
 #displays unique content --quotes
