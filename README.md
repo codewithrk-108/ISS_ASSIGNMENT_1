@@ -2,23 +2,14 @@
 
 Q1 : 
 
-A ). Remove empty lines.
+All 2 parts in 1 file ...
+
 <!--Github Markdown-->
 <!--Code Blocks-->
 ```bash
-$ chmod +x Q1A.sh
-$ ./Q1A.sh 
+$ chmod +x q1.sh
+$ ./q1.sh 
 ```
--> It deletes lines from quotes.txt.
-
-B ). Remove duplicates.
-<!--Github Markdown-->
-<!--Code Blocks-->
-```bash
-$ chmod +x Q1B.sh
-$ ./Q1B.sh 
-```
-
 
 Q2 :
 
@@ -26,8 +17,8 @@ Q2 :
 <!--Github Markdown-->
 <!--Code Blocks-->
 ```bash
-$ chmod +x Q2.sh
-$ ./Q2.sh 
+$ chmod +x q2.sh
+$ ./q2.sh 
 ```
 
 Q3:
@@ -38,8 +29,8 @@ All 5 parts in a single .sh file..
 <!--Github Markdown-->
 <!--Code Blocks-->
 ```bash
-$ chmod +x Q3.sh
-$ ./Q3.sh 
+$ chmod +x q3.sh
+$ ./q3.sh 
 ```
 
 Q4:
@@ -55,37 +46,17 @@ Output : 1 2 3 4
 <!--Github Markdown-->
 <!--Code Blocks-->
 ```bash
-$ chmod +x Q4.sh
-$ ./Q4.sh 
+$ chmod +x q4.sh
+$ ./q4.sh 
 ```
 
 Q5:
 
-A ). Reverse a string
-
 <!--Github Markdown-->
 <!--Code Blocks-->
 ```bash
-$ chmod +x Q5A.sh
-$ ./Q5A.sh 
-```
-
-B ). Incrementing by ascii value
-
-<!--Github Markdown-->
-<!--Code Blocks-->
-```bash
-$ chmod +x Q5B.sh
-$ ./Q5B.sh 
-```
-
-C ). Half reversal of string
-
-<!--Github Markdown-->
-<!--Code Blocks-->
-```bash
-$ chmod +x Q5C.sh
-$ ./Q5C.sh 
+$ chmod +x q5.sh
+$ ./q5.sh 
 ```
 
 Github Repo : https://github.com/codewithrk-108/ISS_ASSIGNMENT_1
