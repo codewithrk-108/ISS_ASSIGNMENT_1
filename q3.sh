@@ -36,3 +36,5 @@ else
 echo "Word : ${arr[1]}  - Count of Repetitions : $((${arr[0]}-1))"
 fi
 done < "count.txt"
+rm "count.txt"
+rm "new.txt"
